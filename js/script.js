@@ -147,6 +147,7 @@ dc.loadMenuCategories = function () {
     buildAndShowCategoriesHTML);
 };
 
+
 // Load the menu items view
 // 'categoryShort' is a short_name for a category
 dc.loadMenuItems = function (categoryShort) {
